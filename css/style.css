@@ -326,6 +326,7 @@ nav.show div.icon-close {
 #about .container {
   margin: 0 auto;
   grid-auto-flow: column;
+  gap: 0;
 }
 
 
@@ -358,11 +359,6 @@ nav.show div.icon-close {
   margin-right: 1.5rem;
   text-align: justify;
 }
-
-#about .text p {
-  text-indent: 1.87rem;
-}
-
 
 #about strong {
   color: var(--base-color);
@@ -404,6 +400,10 @@ nav.show div.icon-close {
 }
 
 /*==== BLOGAO DA MARIA ============================ */
+#blog-container {
+  background: white;
+}
+
 #blog-container h2.title {
   margin-left: 1.5rem;
   margin-right: 1.5rem;
@@ -440,6 +440,8 @@ nav.show div.icon-close {
 
 .blog p {
   margin-bottom: 1.5rem;
+  text-indent: 1.5rem;
+  text-align: -webkit-center;
 }
 
 
@@ -523,6 +525,10 @@ details[open]{
 }
 
 /*====  contact ============================ */
+#contact {
+  background: white;
+}
+
 #contact .grid {
   gap: 4rem;
 }
