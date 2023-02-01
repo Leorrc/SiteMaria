@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 Web Site Psicóloga
 
-- Meu primeiro projeto, a cliente queria que o site fosse simples e claro, com foco em seu trabalho como terapeuta, página craida utilizando puro HTML, CSS e JavaScript.
+- Meu primeiro projeto, a cliente queria que o site fosse simples e claro, com foco em seu trabalho como terapeuta, página criada utilizando somente puro HTML, CSS e JavaScript.
 
 <br />
 <div align="center">
